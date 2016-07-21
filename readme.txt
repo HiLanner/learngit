@@ -4,10 +4,11 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 <<<<<<< HEAD
-À²À²À²
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 feature leave 4
 =======
 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 feature3
 hezuoyixia
 >>>>>>> dev
+i want to see the change1
