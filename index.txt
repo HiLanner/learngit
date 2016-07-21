@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 cc:git rebase2
+=======
+f:change4
+>>>>>>> 303b2314cdfdba39cbb5ffcca63d3baa7c2bb09b

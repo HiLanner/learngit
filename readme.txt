@@ -15,5 +15,13 @@ hezuoyixia
 iwant to see the change2
 =======
 i want to see the change1
+<<<<<<< HEAD
+
+=======
 >>>>>>> origin
+>>>>>>> origin
+<<<<<<< HEAD
 cc:rebase1
+=======
+f:change3
+>>>>>>> 303b2314cdfdba39cbb5ffcca63d3baa7c2bb09b
