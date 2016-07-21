@@ -11,5 +11,12 @@ feature leave 4
 feature3
 hezuoyixia
 >>>>>>> dev
+<<<<<<< HEAD
+iwant to see the change2
+=======
 i want to see the change1
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin
+>>>>>>> origin
